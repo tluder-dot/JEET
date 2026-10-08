@@ -1,6 +1,6 @@
 # ADR-0001: Build a two-tier platform: raw files in Cloud Storage, a BigQuery warehouse on top
 
-- **Status:** proposed
+- **Status:** accepted
 - **Date:** 2026-10-08
 - **Author:** Till Lüder
 - **Lesson:** L01
